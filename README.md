@@ -6,3 +6,5 @@
 
 Committing Issue1 changes
 
+git checkout -b new-branch-2
+
